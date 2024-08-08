@@ -3,8 +3,7 @@
     "name": "MoreCulture25",
     "cost": 0,
     "uniques": [
-      "Limited to [1] per Civilization",
-		  "Unbuildable <for [AI player]>",
+      "Unbuildable <for [AI player]>",
       "culture": 25 ]
   },
 	
@@ -12,8 +11,7 @@
     "name": "MoreFaith25",
     "cost": 0,
     "uniques": [
-      "Limited to [1] per Civilization",
-		  "Unbuildable <for [AI player]>",
+      "Unbuildable <for [AI player]>",
       "faith": 25 ]
   },
 	
@@ -21,8 +19,7 @@
     "name": "MoreScience15",
     "cost": 0,
     "uniques": [
-      "Limited to [1] per Civilization",
-		  "Unbuildable <for [AI player]>",
+      "Unbuildable <for [AI player]>",
       "science": 15 ]
   },
 	
@@ -30,8 +27,7 @@
     "name": "MoreFood20",
     "cost": 0,
     "uniques": [
-      "Limited to [1] per Civilization",
-		  "Unbuildable <for [AI player]>",
+      "Unbuildable <for [AI player]>",
       "food": 20 ]
     }
   ]
