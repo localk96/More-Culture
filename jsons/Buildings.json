@@ -3,7 +3,7 @@
     "name": "MoreCulture25",
     "cost": 0,
     "uniques": [
-      "Unbuildable <for [AI player]>",
-      "culture: 25" ]
+      "Unbuildable <for [AI player]>"],
+      "culture": 25 
   }
 ]
